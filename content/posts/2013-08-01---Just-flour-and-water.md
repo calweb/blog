@@ -11,7 +11,7 @@ tags:
 description: "Those who know me, also know that I like cooking, but I tend to just 'wing it'...and add things to a recipe as I taste, which is probably why I never was that great at baking or making candy."
 ---
 
-![Homemade pasta by Calweb, on Flickr](http://farm3.staticflickr.com/2822/9411148263_2f75f2e275.jpg)
+![Homemade pasta by Calweb, on Flickr](https://farm3.staticflickr.com/2822/9411148263_2f75f2e275.jpg)
 
 It's funny how almost a year goes by and no updates...so I thought to put something up here just to go through the motions of actually updating my blog....
 

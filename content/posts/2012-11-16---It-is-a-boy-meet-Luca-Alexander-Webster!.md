@@ -10,14 +10,14 @@ tags:
 description: "It's official!  We have (well, have had now for 2 1/2 months) a beautiful baby boy named Luca Alexander Webster, weighing in at 6lbs 12oz."
 ---
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/Tkl44xazDYI" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Tkl44xazDYI" frameborder="0" allowfullscreen></iframe>
 
 It's official!  We have (well, have had now for 2 1/2 months) a beautiful baby boy named Luca Alexander Webster, weighing in at 6lbs 12oz.
 
 Needless to say things have stayed busy, especially for Anne Marie, but I'm so excited to be a father and ready to fill out my new role.  In the video above, he is less than an hour old and recovering from being intubated as he was not breathing initially when he came out.
 
 
-![](http://farm9.staticflickr.com/8066/8191478409_fdebb0feb8.jpg)
+![](https://farm9.staticflickr.com/8066/8191478409_fdebb0feb8.jpg)
 
 The time has flown by!  What is really cool is that I'm finding he has a cute little personality and soooo many facial expressions. All the joys people mention when having a new little one are true, and it's hard to describe how awesome it really is to hold your own, your little one.
 
@@ -34,10 +34,10 @@ The little guy is amazing and I can't wait for all of my friends and family to m
 
 Here he is as a Ninja on Halloween:
 
-![](http://farm9.staticflickr.com/8463/8143704874_5b6f6c8f07.jpg)
+![](https://farm9.staticflickr.com/8463/8143704874_5b6f6c8f07.jpg)
 
 And his angry face when he wants to be held:
 
-![](http://farm9.staticflickr.com/8070/8198046318_87cf556c8f.jpg)
+![](https://farm9.staticflickr.com/8070/8198046318_87cf556c8f.jpg)
 
 

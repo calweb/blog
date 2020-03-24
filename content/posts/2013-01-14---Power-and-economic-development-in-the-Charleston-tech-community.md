@@ -7,7 +7,7 @@ category: "Tech Community"
 description: "I’ve been in a weird mood lately. This past weekend I attended the local Linux Users group and chatted about free software. Yesterday I heard about Aaron Swartz commiting suicide and have mixed, albeit, sad feelings about that. And this morning, following a recent conference announcement from the Charleston Digital Corridor’s (CDC) Code Show, I saw a few comments that had me thinking about the state of our tech community and what it means to me."
 ---
 
-<a href="http://www.flickr.com/photos/pla1/5174995086/" title="BarCampCHS 2010 Topic Board by Patrick L Archibald, on Flickr"><img src="http://farm5.staticflickr.com/4128/5174995086_4067c16676_z.jpg" width="640" height="480" alt="BarCampCHS 2010 Topic Board"></a>
+<a href="https://www.flickr.com/photos/pla1/5174995086/" title="BarCampCHS 2010 Topic Board by Patrick L Archibald, on Flickr"><img src="https://farm5.staticflickr.com/4128/5174995086_4067c16676_z.jpg" width="640" height="480" alt="BarCampCHS 2010 Topic Board"></a>
 
 I've been in a weird mood lately.  This past weekend I attended the local Linux Users group and chatted about free software. Yesterday I heard about Aaron Swartz commiting suicide and have mixed, albeit, sad feelings about that. And this morning, following a recent conference announcement from the Charleston Digital Corridor's (CDC) Code Show, I saw a few comments that had me thinking about the state of our tech community and what it means to me.
 <!--more-->
