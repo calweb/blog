@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://calweb.github.io/blog/blog/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://calweb.github.io/blog/blog/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://calweb.github.io/blog/blog/posts/2013-01-14---Power-and-economic-development-in-the-Charleston-tech-community/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://calweb.github.io/blog/blog/posts/2013-02-21---Luca-almost-6-months!/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://calweb.github.io/blog/blog/posts/2012-11-16---It-is-a-boy-meet-Luca-Alexander-Webster!/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://calweb.github.io/blog/blog/posts/2013-02-21---Luca-almost-6-months!/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://calweb.github.io/blog/blog/posts/just-flour-and-water</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://calweb.github.io/blog/blog/posts/random-things-that-could-be-better</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://calweb.github.io/blog/blog/posts/2013-01-14---Power-and-economic-development-in-the-Charleston-tech-community/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://calweb.github.io/blog/blog/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://calweb.github.io/blog/blog/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://calweb.github.io/blog/blog/tag/annoyances</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
