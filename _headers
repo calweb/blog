@@ -92,17 +92,6 @@
   Link: </component---src-templates-not-found-template-js-b11ea760c78d8fc122d5.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/2012-11-16---It-is-a-boy-meet-Luca-Alexander-Webster!/
-  Link: </webpack-runtime-419ca88242927f510d25.js>; rel=preload; as=script
-  Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
-  Link: </commons-ba20826594992b6e08d3.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-c387a42cb3b4efbcc06c.js>; rel=preload; as=script
-  Link: </app-fb118e168742e8211388.js>; rel=preload; as=script
-  Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
-  Link: </commons-ba20826594992b6e08d3.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-e2849380ae90f50fd7b4.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/2012-11-16---It-is-a-boy-meet-Luca-Alexander-Webster!/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/2013-02-21---Luca-almost-6-months!/
   Link: </webpack-runtime-419ca88242927f510d25.js>; rel=preload; as=script
   Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
@@ -114,17 +103,6 @@
   Link: </component---src-templates-post-template-js-e2849380ae90f50fd7b4.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/2013-02-21---Luca-almost-6-months!/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/2013-01-14---Power-and-economic-development-in-the-Charleston-tech-community/
-  Link: </webpack-runtime-419ca88242927f510d25.js>; rel=preload; as=script
-  Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
-  Link: </commons-ba20826594992b6e08d3.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-c387a42cb3b4efbcc06c.js>; rel=preload; as=script
-  Link: </app-fb118e168742e8211388.js>; rel=preload; as=script
-  Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
-  Link: </commons-ba20826594992b6e08d3.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-e2849380ae90f50fd7b4.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/2013-01-14---Power-and-economic-development-in-the-Charleston-tech-community/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/just-flour-and-water
   Link: </webpack-runtime-419ca88242927f510d25.js>; rel=preload; as=script
   Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
@@ -136,6 +114,39 @@
   Link: </component---src-templates-post-template-js-e2849380ae90f50fd7b4.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/just-flour-and-water/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/2012-11-16---It-is-a-boy-meet-Luca-Alexander-Webster!/
+  Link: </webpack-runtime-419ca88242927f510d25.js>; rel=preload; as=script
+  Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
+  Link: </commons-ba20826594992b6e08d3.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-c387a42cb3b4efbcc06c.js>; rel=preload; as=script
+  Link: </app-fb118e168742e8211388.js>; rel=preload; as=script
+  Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
+  Link: </commons-ba20826594992b6e08d3.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-e2849380ae90f50fd7b4.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/2012-11-16---It-is-a-boy-meet-Luca-Alexander-Webster!/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/2013-01-14---Power-and-economic-development-in-the-Charleston-tech-community/
+  Link: </webpack-runtime-419ca88242927f510d25.js>; rel=preload; as=script
+  Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
+  Link: </commons-ba20826594992b6e08d3.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-c387a42cb3b4efbcc06c.js>; rel=preload; as=script
+  Link: </app-fb118e168742e8211388.js>; rel=preload; as=script
+  Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
+  Link: </commons-ba20826594992b6e08d3.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-e2849380ae90f50fd7b4.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/2013-01-14---Power-and-economic-development-in-the-Charleston-tech-community/page-data.json>; rel=preload; as=fetch; crossorigin
+/pages/contacts/
+  Link: </webpack-runtime-419ca88242927f510d25.js>; rel=preload; as=script
+  Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
+  Link: </commons-ba20826594992b6e08d3.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-c387a42cb3b4efbcc06c.js>; rel=preload; as=script
+  Link: </app-fb118e168742e8211388.js>; rel=preload; as=script
+  Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
+  Link: </commons-ba20826594992b6e08d3.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-21b7572631548c8f1b82.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
 /pages/about/
   Link: </webpack-runtime-419ca88242927f510d25.js>; rel=preload; as=script
   Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
@@ -158,17 +169,6 @@
   Link: </component---src-templates-post-template-js-e2849380ae90f50fd7b4.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/random-things-that-could-be-better/page-data.json>; rel=preload; as=fetch; crossorigin
-/pages/contacts/
-  Link: </webpack-runtime-419ca88242927f510d25.js>; rel=preload; as=script
-  Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
-  Link: </commons-ba20826594992b6e08d3.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-c387a42cb3b4efbcc06c.js>; rel=preload; as=script
-  Link: </app-fb118e168742e8211388.js>; rel=preload; as=script
-  Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
-  Link: </commons-ba20826594992b6e08d3.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-21b7572631548c8f1b82.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/annoyances
   Link: </webpack-runtime-419ca88242927f510d25.js>; rel=preload; as=script
   Link: </styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
