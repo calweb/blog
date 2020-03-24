@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://calweb.github.io/blog',
-  pathPrefix: '/',
+  pathPrefix: '/blog',
   title: 'Blog by Calvin Webster',
   subtitle: 'virtual home with thoughts',
   copyright: '© 2020 All rights reserved.',
@@ -13,20 +13,20 @@ module.exports = {
   menu: [
     {
       label: 'Articles',
-      path: '/'
+      path: '/blog'
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/blog/pages/about'
     },
     {
       label: 'Contact me',
-      path: '/pages/contacts'
+      path: '/blog/pages/contacts'
     }
   ],
   author: {
     name: 'Calvin Webster',
-    photo: '/media/tiy-calvin.jpg',
+    photo: '/blog/media/tiy-calvin.jpg',
     bio: 'ordinary guy who is extraordinarily curious about our world. born in hawaii, military family, loves beach, nature, and people.',
     contacts: {
       email: 'calweb@gmail.com',
