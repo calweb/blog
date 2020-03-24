@@ -13,20 +13,20 @@ module.exports = {
   menu: [
     {
       label: 'Articles',
-      path: '/blog'
+      path: '/'
     },
     {
       label: 'About me',
-      path: '/blog/pages/about'
+      path: '/pages/about'
     },
     {
       label: 'Contact me',
-      path: '/blog/pages/contacts'
+      path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Calvin Webster',
-    photo: '/blog/media/tiy-calvin.jpg',
+    photo: '/media/tiy-calvin.jpg',
     bio: 'ordinary guy who is extraordinarily curious about our world. born in hawaii, military family, loves beach, nature, and people.',
     contacts: {
       email: 'calweb@gmail.com',
