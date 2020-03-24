@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://calweb.github.io',
+  url: 'https://calweb.github.io/blog',
   pathPrefix: '/',
   title: 'Blog by Calvin Webster',
   subtitle: 'virtual home with thoughts',
