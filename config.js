@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://calweb.github.io',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Blog by Calvin Webster',
+  subtitle: 'virtual home with thoughts',
+  copyright: '© 2020 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -25,24 +25,24 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Calvin Webster',
+    photo: '/media/tiy-calvin.jpg',
+    bio: 'ordinary guy who is extraordinarily curious about our world. born in hawaii, military family, loves beach, nature, and people.',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'calweb@gmail.com',
+      facebook: 'calweb',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'calweb',
+      github: 'calweb',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'calweb',
+      instagram: 'calweb',
       line: '',
       gitlab: '',
       weibo: '',
-      codepen: '',
-      youtube: '',
+      codepen: 'calweb',
+      youtube: 'UCLakIYLsnf6gDhEAEDSJHEg',
       soundcloud: '',
     }
   }
