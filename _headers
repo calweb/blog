@@ -103,6 +103,17 @@
   Link: </blog/component---src-templates-post-template-js-e2849380ae90f50fd7b4.js>; rel=preload; as=script
   Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </blog/page-data/posts/2012-11-16---It-is-a-boy-meet-Luca-Alexander-Webster!/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/posts/2013-01-14---Power-and-economic-development-in-the-Charleston-tech-community/
+  Link: </blog/webpack-runtime-1571f9651917ff0e8d7f.js>; rel=preload; as=script
+  Link: </blog/styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
+  Link: </blog/commons-91115707d43dba48f074.js>; rel=preload; as=script
+  Link: </blog/netlify-identity-widget-c387a42cb3b4efbcc06c.js>; rel=preload; as=script
+  Link: </blog/app-4c707f52843d6c481804.js>; rel=preload; as=script
+  Link: </blog/styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
+  Link: </blog/commons-91115707d43dba48f074.js>; rel=preload; as=script
+  Link: </blog/component---src-templates-post-template-js-e2849380ae90f50fd7b4.js>; rel=preload; as=script
+  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </blog/page-data/posts/2013-01-14---Power-and-economic-development-in-the-Charleston-tech-community/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/posts/2013-02-21---Luca-almost-6-months!/
   Link: </blog/webpack-runtime-1571f9651917ff0e8d7f.js>; rel=preload; as=script
   Link: </blog/styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
@@ -136,17 +147,6 @@
   Link: </blog/component---src-templates-post-template-js-e2849380ae90f50fd7b4.js>; rel=preload; as=script
   Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </blog/page-data/posts/random-things-that-could-be-better/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/posts/2013-01-14---Power-and-economic-development-in-the-Charleston-tech-community/
-  Link: </blog/webpack-runtime-1571f9651917ff0e8d7f.js>; rel=preload; as=script
-  Link: </blog/styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
-  Link: </blog/commons-91115707d43dba48f074.js>; rel=preload; as=script
-  Link: </blog/netlify-identity-widget-c387a42cb3b4efbcc06c.js>; rel=preload; as=script
-  Link: </blog/app-4c707f52843d6c481804.js>; rel=preload; as=script
-  Link: </blog/styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
-  Link: </blog/commons-91115707d43dba48f074.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-post-template-js-e2849380ae90f50fd7b4.js>; rel=preload; as=script
-  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </blog/page-data/posts/2013-01-14---Power-and-economic-development-in-the-Charleston-tech-community/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/pages/about/
   Link: </blog/webpack-runtime-1571f9651917ff0e8d7f.js>; rel=preload; as=script
   Link: </blog/styles-8d1bc0f530bdf8c76780.js>; rel=preload; as=script
